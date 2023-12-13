@@ -8,7 +8,6 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 # Set up matplotlib style
 plt.style.use('fivethirtyeight')
 
-# Streamlit app starts here
 st.title("Customer Data Analysis")
 
 # Upload CSV file
